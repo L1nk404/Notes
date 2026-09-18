@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "2b3fc5926739a251",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8502e3d5c4167b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85c2172ce1eb3bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10bab8861f31b380",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe00754aee533228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9920e1733d296358",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f0d35dcc5ded3f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0377b5be24303bd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "bd574aef870c4a41",
+    "type": "split",
+    "children": [
+      {
+        "id": "3007fb56af8799c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7513bbcb604b8a64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevExploit/Windows/Basics of Windows shellcode writing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Basics of Windows shellcode writing"
+            }
+          },
+          {
+            "id": "08789b1ae9e78940",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Data"
+            }
+          },
+          {
+            "id": "51218def12c33911",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12da9ed1e9862f25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Data"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9920e1733d296358",
+  "lastOpenFiles": [
+    "DevExploit/Windows/Basics of Windows shellcode writing.md",
+    "Register.md",
+    "Data.md",
+    "attachment/Number_Asm.drawio.png",
+    "Execution Flow.md",
+    "DevExploit/Windows/Finding Kernel32 Base and Function Addresses in Shellcode.md",
+    "attachment/Pasted image 20250407091115.png",
+    "attachment/Pasted image 20250407091114.png",
+    "1741194229050.canvas",
+    "Untitled.md",
+    "1741194211336.canvas",
+    "Numbers.md",
+    "1741194073159.canvas",
+    "DevExploit/Windows/1741194034278.canvas",
+    "attachment/locate_function2.gif",
+    "attachment/locate_function2.gif.crdownload",
+    "attachment/locate_function1.gif",
+    "attachment/locate_function1.gif.crdownload",
+    "attachment/Pasted image 20250222235204.png",
+    "attachment/Pasted image 20250222235018.png",
+    "attachment/Pasted image 20250217012145.png",
+    "attachment/locate_dll3.gif",
+    "attachment/locate_dll3.gif.crdownload",
+    "attachment/locate_dll2.gif",
+    "attachment/locate_dll2.gif.crdownload",
+    "attachment/locate_dll1.gif.crdownload",
+    "offset.md",
+    "Find the DLL Base Address.md",
+    "attachment/locate_function1 1.gif.crdownload",
+    "DevExploit/Windows",
+    "DevExploit",
+    "Stack frame.md",
+    "Untitled.canvas",
+    "Memory layout.md"
+  ]
+}
