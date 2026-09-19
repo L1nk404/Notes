@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo Numerico Computacional/Módulo 1.md",
+                "file": "Métodos de Pesquisa/Módulo 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d8b7a3dd1eee705c",
@@ -188,14 +189,21 @@
   },
   "active": "b27f5031bfd0f04a",
   "lastOpenFiles": [
+    "Métodos de Pesquisa/Attachments/Pasted image 20260919111828.png",
+    "Métodos de Pesquisa/Attachments/Pasted image 20260919105201.png",
+    "Métodos de Pesquisa/Módulo 1.md~",
+    "Métodos de Pesquisa/Attachments/Pasted image 20260919102440.png",
+    "Métodos de Pesquisa/Attachments",
+    "Calculo Numerico Computacional/Módulo 1.md",
+    "Métodos de Pesquisa/Módulo 1.md",
+    "Métodos de Pesquisa",
+    "Untitled.md",
     "Gestao-Projetos/Módulo 1.md",
     "Gestao-Projetos/Attachments/Pasted image 20260904114419.png",
     "Gestao-Projetos/Attachments/Pasted image 20260904114153.png",
     "Gestao-Projetos/Attachments/Pasted image 20260904112921.png",
     "2026-09-04.md",
     "Gestao-Projetos/Attachments/Pasted image 20260904112210.png",
-    "Untitled.md",
-    "Calculo Numerico Computacional/Módulo 1.md",
     "Calculo Numerico Computacional",
     "Gestao-Projetos/Attachments/Pasted image 20260831152854.png",
     "Gestao-Projetos/Attachments/Pasted image 20260831152131.png",
