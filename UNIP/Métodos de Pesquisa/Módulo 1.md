@@ -124,3 +124,68 @@ Veja a tabela comparativa abaixo:
 
 ---
 ## Aula 4
+
+> [!quote] Nessa Aula
+> Neste vídeo, vemos uma introdução detalhada aos **métodos de pesquisa quantitativa**, com foco especial nas **pesquisas do tipo survey**. A apresentadora, Angelica Carlini, explica que esse tipo de pesquisa tem como objetivo **mensurar e quantificar fenômenos e comportamentos**, sendo adequada quando o pesquisador já possui **domínio sobre as variáveis envolvidas** no objeto de estudo. Na definição dos conceitos iniciais, ela destaca que as técnicas mais utilizadas são os **surveys e web surveys (on-line)**.
+
+##  Surveys e Web Surveys
+
+- Os *surveys* (ou levantamentos) são uma modalidade de pesquisa apreciada nas áreas das Ciências Humanas, Ciências Sociais Aplicadas e outros estudos comportamentais.
+- Seu pressuposto é que é possível entender, de forma racional, o comportamento social, mesmo se este envolver os elementos irracionais.
+- Os levantamentos partem do princípio de que é possível identificar as variáveis que determinam o comportamento humano, identificando os fatores que levam pessoas a agir de tal ou qual modo (BARBIER, 1999).
+- Uma pesquisa do tipo ***survey* faz o uso da aplicação de um questionário para obter as informações relevantes** ao tema que está sendo investigado.
+- Este questionário é aplicado junto a uma amostra – um grupo de pessoas que tenha as características da população estudada – e os resultados são analisados estatisticamente, a depender da amostra (do seu tamanho e da maneira como foi composta), estes resultados podem ser projetados para a população como um todo.
+
+> [!quote] Resumo
+A explicação sobre os surveys revela que eles são uma modalidade de pesquisa muito utilizada nas ciências humanas e sociais aplicadas, buscando entender o comportamento social de forma racional.
+Durante a descrição do processo, vemos que um questionário é aplicado a uma amostra de pessoas com características semelhantes à população estudada, e os resultados são analisados estatisticamente.
+Na análise das vantagens dos web surveys, são destacados a interatividade, recursos visuais, menor viés e facilidade de aplicação on-line.
+
+### Amostragem e Confibialidade
+- As **amostras probabilísticas** são aquelas em que **todos os participantes de um grupo têm a mesma chance de participarem da composição da amostra**.
+- As **amostras NÃO probabilísticas** são aquelas em que **há a prevalência de algum critério para a escolha dos participantes de uma amostra**.
+- Em relação ao tamanho da amostra, há cálculos estatísticos que indicam o número ideal em função do erro que o pesquisador está disposto a assumir, o nível de confiança que se deseja para os dados, a proporção em que o comportamento ou a característica se manifesta na população etc.
+- A pesquisa do tipo *survey* apresenta uma série de vantagens para o pesquisador e, dentre essas, distinguem-se as relacionadas às possibilidades de conhecimento da realidade, à economia e à rapidez com que podem ser realizadas, e às possibilidades de quantificação.
+ - Existem limitações: no caso de entrevistas com pessoas há que se considerar possíveis erros, percepções distorcidas ou vieses introduzidos pelos próprios entrevistados.
+
+- O pesquisador precisa garantir a credibilidade da pesquisa.
+- Dois critérios são essenciais: a **confiabilidade** e a **validade**.
+- A **confiabilidade** diz respeito à **precisão da medição**, ou seja, **quando uma variável for medida repetidamente, ela deve apresentar, sempre, o mesmo resultado**. O exemplo mais clássico é o da balança: a cada vez que, por exemplo, um quilo de alimento for pesado em uma mesma balança, o resultado deve ser sempre o de um quilo, e não de oitocentas gramas numa pesagem, um quilo noutra, e um quilo e duzentas gramas em uma terceira mensuração. 
+- A **validade** é entendida como a **capacidade de acurácia (ou exatidão) de uma medida, isto é, a sua habilidade de medir**, adequadamente, os conceitos que estão sendo investigados (LAMEIRÃO, 2014, p. 46).
+
+> [!quote] Resumo
+> Ao abordar a definição da amostra, a apresentadora enfatiza a importância de selecionar cuidadosamente o grupo de participantes com base nas características relevantes para a pesquisa.
+> A distinção entre amostras probabilísticas e não probabilísticas é explicada, ressaltando a aleatoriedade ou critérios específicos na seleção dos participantes.
+> Durante a discussão sobre confiabilidade e validade, são apresentados os conceitos de precisão da medição e capacidade de medir adequadamente os conceitos investigados.
+### Elaboração de Questionário
+
+- A elaboração do questionário requer uma atenção especial do pesquisador, já que ele deve tomar cuidado com a clareza e a precisão dos termos utilizados na formulação das questões.
+- Há dois formatos de perguntas: as abertas e as fechadas.
+- As questões **abertas** são perguntas as quais o **entrevistado responde livremente,** sem ter que escolher as alternativas.
+- As questões **fechadas** **têm alternativas como respostas** e o entrevistado deverá escolher uma delas.
+ - As questões **fechadas** facilitam a contagem das respostas e requerem que o pesquisador conheça a fundo o tema que está sendo pesquisado para que as alternativas possam ser oferecidas de maneira clara.
+ - As questões **abertas** podem fazer surgir informações que, de outra forma, não surgiriam, embora dificulte a contabilização de respostas.
+
+> [!quote] Resumo
+> - A orientação sobre a formulação de perguntas enfatiza a necessidade de **evitar ambiguidades, usar linguagem simples e realizar pré-testes** antes da aplicação final.
+> - Ao discutir as boas práticas para web surveys, são mencionados aspectos como **tamanho do questionário, linguagem acessível e realização de pré-testes**.
+
+## Exercício
+
+![[Pasted image 20260920105839.png]]
+
+> [!success] Resposta D
+
+---
+# Exercícios do Módulo
+
+![[Pasted image 20260920111055.png]]
+![[Pasted image 20260920111106.png]]
+![[Pasted image 20260920111114.png]]
+![[Pasted image 20260920111123.png]]
+![[Pasted image 20260920111131.png]]
+![[Pasted image 20260920111140.png]]
+![[Pasted image 20260920111148.png]]
+![[Pasted image 20260920111159.png]]
+![[Pasted image 20260920111205.png]]
+![[Pasted image 20260920111217.png]]

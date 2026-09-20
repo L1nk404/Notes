@@ -95,7 +95,62 @@ Alguns exemplos de frameworks para gerenciamento de serviços de TI.
 
 ![[Pasted image 20260904114153.png]]
 
-### Exercício
+## Exercício
 ![[Pasted image 20260904114419.png]]
 
 > Resposta b
+
+# Aula 3
+
+> [!quote] Nessa Aula
+Neste vídeo, somos apresentados aos **princípios fundamentais do Padrão de Gerenciamento de Projetos** estabelecido pelo PMI (Project Management Institute). O instrutor destaca a importância de compreender esses princípios como **norteadores essenciais** para a aplicação eficaz de modelos e boas práticas na gestão de projetos. Na introdução aos conceitos básicos de gerenciamento de projetos, é enfatizada a **entrega de valor** como foco central, considerando os ambientes interno e externo que influenciam os projetos.
+
+## Padrão de Gerenciamento de Projetos
+-  O padrão de **gerenciamento de projetos** é uma publicação criado pelo **PMI** que tem por **objetivo a entrega dos fundamentos básicos que integram a gestão de projetos**. Ele poder ser utilizado em qualquer organização sem que nos preocupemos com o porte ou ramo de atividade.
+- Esse padrão também pode ser empregado nas mais variadas abordagens de entrega desde aquelas mais preditivas e tradicionais até aquelas mais adaptativas e ágeis.
+## Aspectos introdutórios do Padrão de Gerenciamento de Projetos
+- Os aspectos introdutórios apresentam os **propósitos** e **a quem se destina o padrão de gerenciamento de projetos**, bem como a definição de termos e conceitos básicos tais como:
+	- Projeto;
+	- programa;
+	- portifólio
+	- produto
+- O público que pode fazer uso do padrão de gerenciamento de projetos é o mais variado possível, abrangendo desde estudantes até os mais qualificados consultores dessa área.
+- No entanto, uma das figuras que mais pode aproveitá-lo é o gerente de projetos que, segundo o PMI, é a "*pessoa desiginada pela organização executadora para liderar a equipe de projeto, responsável por alcançar os objetivos do projeto*".
+## Sistema de Entrega de Valor
+- O sistema de entrega de valor consiste no conjunto de elementos (que podem ser atividades) destinadaos à criação de valor para as partes interessadas, estando sempre alinhado às estratégias do negócio.
+
+![[Pasted image 20260920132629.png]]
+## Principios do Gerenciamento de Projetos
+- Representam um **conjunto de norteadores no cotidiano dos projetos** de uma organização.
+- A partir dos princípios, é possível tomar decisões assertivas, resolver problemas e fornecer orientações para as pessoas envolvidas nos projetos
+- Cada um desses princípios tem forte relação com uma temática específica.
+
+![[Pasted image 20260920133308.png]]
+### Principios do Gerenciamento de Projetos: Administração
+- O enunciado desse primeiro princípio, segundo o PMI é: "*seja um administrador diligente, respeitoso e atencioso*".
+- No contexto de projetos, a administração é exercida pelo gerente de projetos e precisa valorzar a diligência, o respeito, a responsabilidade e a atenção para com as questões críticas que envolve um projeto.
+- Além disso, é essencial que o administrador esteja alinhado ao negócio, ou seja, objetivos estratégicos, à sua missão, à sua visão e aos valores professados.
+### Principios do Gerenciamento de Projetos: Equipe
+- O enunciado desse princípio, segundo o PMI, é: "*crie um ambiente colaborativo para a equipe de projetos*"
+- Trazer as pessoas para o centro da discussão em gestão de projetos.
+### Principio do Gerenciamento de Projetos: Valor
+- Este princípio traz o valor como o verdadeiro foco, direcionando todo o trabalho do projeto para a entrega de benefícios por meio dos resultados.
+- Esse valor não somente expressa o resultado entregue ao final do projeto, mas é percebido ao longo de todo o seu ciclo de vida.
+- O valor em um projeto, principalmente no que tange aos resultados, tem uma alta carga de subjetividade, oriunda daquele a quem são destinados os resultados.
+- Por exemplo, em um projeto de software, quando a interface desenvolvida não está alinhada a padrões aconselhados pelas boas práticas da experiência de usuário (UX – User Experience), normalmente os usuários ficam insatisfeitos.
+### Princípios do gerenciamento de projetos: Pensamento sistêmico
+
+As habilidades que apoiam uma visão sistêmica na condução de projetos são:
+
+- Empatia, percepção e bom relacionamento com as áreas de negócios.
+- Visão voltada para o panorama como um todo a partir de uma leitura crítica da realidade.
+- Utilização de modelos mentais para melhor compreensão da realidade.
+- Uso de ferramental e práticas para a integração e compreensão do trabalho, do resultado das entregas do projeto.
+- Elaboração de cenários almejando a compreensão da dinâmica do sistema.
+- Atuação gerencial proativa e integrada com o fito de obter os resultados desejados pelo negócio.
+## Exercício
+![[Pasted image 20260920134030.png]]
+
+> [!success] Resposta b
+
+
