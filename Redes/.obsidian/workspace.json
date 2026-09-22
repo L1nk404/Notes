@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "9c547a01044e0a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce554230c3231692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea84e67caf0cabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking Devices and Initial Configuration/1. Network Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Network Design"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69a13ee4b09d7b27",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8e15e223d25e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87b32a846d78909c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5403a0256fd8cc6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5eea4400b9aff60c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6235845793cef9fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "75827b20ce6580d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44398c9334ca0567",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ONBOARDING SEGURANÇA DA INFORMAÇÃO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "87b26c6ae7f805cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ONBOARDING SEGURANÇA DA INFORMAÇÃO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "79084afc870e3db0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "725c4657daca9011",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "a7a1fd655d81b4b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ONBOARDING SEGURANÇA DA INFORMAÇÃO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1ea84e67caf0cabf",
+  "lastOpenFiles": [
+    "Networking Devices and Initial Configuration/IOS Navigation.md",
+    "Networking Devices and Initial Configuration/1. Network Design.md",
+    "Redes/Networking Devices and Initial Configuration",
+    "Basico/ONBOARDING SEGURANÇA DA INFORMAÇÃO.md",
+    "Redes/Networking Devices and Initial Configuration/IOS Navigation.md",
+    "Basico",
+    "Redes",
+    "Basico/Attachments/Pasted image 20260914103716.png",
+    "Basico/Attachments/Pasted image 20260914103710.png",
+    "Basico/Attachments",
+    "Basico/Attachments/Pasted image 20260914094220.png"
+  ]
+}
