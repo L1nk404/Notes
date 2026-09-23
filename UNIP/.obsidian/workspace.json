@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a02d3b646c71cde9",
+        "id": "7b5425cbd97d5c78",
         "type": "tabs",
         "children": [
           {
-            "id": "b27f5031bfd0f04a",
+            "id": "9cbe9c15840765fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestao-Projetos/Módulo 1.md",
+                "file": "Ciencia Computação Interdisciplinar/Módulo 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,21 +186,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "b27f5031bfd0f04a",
+  "active": "9cbe9c15840765fe",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Ciencia Computação Interdisciplinar/Attachments/Pasted image 20260923191827.png",
+    "Ciencia Computação Interdisciplinar/Attachments/Pasted image 20260923191731.png",
+    "Ciencia Computação Interdisciplinar/Attachments/Pasted image 20260923191646.png",
+    "Ciencia Computação Interdisciplinar/Attachments/Pasted image 20260923190522.png",
+    "Ciencia Computação Interdisciplinar/Attachments",
+    "Ciencia Computação Interdisciplinar/Módulo 1.md",
+    "Ciencia Computação Interdisciplinar",
     "Gestao-Projetos/Módulo 1.md",
-    "Gestao-Projetos/Attachments/Pasted image 20260920134030.png",
-    "Gestao-Projetos/Attachments/Pasted image 20260920133822.png",
-    "Gestao-Projetos/Attachments/Pasted image 20260920133308.png",
-    "Gestao-Projetos/Attachments/Pasted image 20260920132629.png",
+    "Ciência de Dados/Módulo 1.md",
+    "Ciência de Dados/Attachments/Pasted image 20260922193017.png",
+    "Ciência de Dados/Attachments/Pasted image 20260922192724.png",
+    "Ciência de Dados/Attachments/Pasted image 20260922192559.png",
+    "Ciência de Dados/Attachments/Pasted image 20260922192304.png",
+    "Ciência de Dados/Attachments/Pasted image 20260922192118.png",
+    "Ciência de Dados/Attachments/Pasted image 20260922190917.png",
+    "Ciência de Dados/Attachments/Pasted image 20260922190435.png",
+    "Ciência de Dados/Attachments",
+    "Ciência de Dados",
     "Métodos de Pesquisa/Módulo 1.md",
-    "Métodos de Pesquisa/Attachments/Pasted image 20260920111217.png",
-    "Métodos de Pesquisa/Attachments/Pasted image 20260920111205.png",
-    "Métodos de Pesquisa/Attachments/Pasted image 20260920111159.png",
-    "Métodos de Pesquisa/Attachments/Pasted image 20260920111148.png",
-    "Métodos de Pesquisa/Attachments/Pasted image 20260920111140.png",
-    "Métodos de Pesquisa/Attachments/Pasted image 20260920111131.png",
     "Métodos de Pesquisa/Módulo 1.md~",
     "Métodos de Pesquisa/Attachments",
     "Calculo Numerico Computacional/Módulo 1.md",
