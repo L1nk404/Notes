@@ -1,4 +1,4 @@
-	## 10.1.1 The Cisco IOS Command Line Interface
+## 10.1.1 The Cisco IOS Command Line Interface
 The Cisco IOS (Internetwork Operation System) command line interface (CLI) is a text-based program that enables entering and executing Cisco IOS commands to configure, monitor, and maintain Cisco devices. The Cisco CLI can be used with either in-band or out-of-band management tasks.
 CLI commands are used to alter the configuration of the device and to display the current status of processes on the router. For experienced users, the CLI offers many time-saving features for creating both simple and complex configurations. **Almost all Cisco networking devices use a similar CLI**. When the router has completed the power-up sequence and the `Router>` prompt appears, the CLI can be used to enter Cisco IOS commands, as shown in the command output.
 
