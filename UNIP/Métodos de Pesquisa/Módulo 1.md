@@ -1,4 +1,4 @@
-## Aula 1
+# Aula 1
 ### Ciência
 - Segundo Zanella, a ciência é a produção humana na sua atividade de conhecer e refletir a respeito do mundo e dos fenômenos da natureza.
 - A ciência é o fruto da reflexão de um sujeito (quem busca saber) sobre um objeto (o alvo dessa reflexão).
@@ -18,7 +18,7 @@
 > Quando você define o objeto e conhece as especificidades desse objeto depois você pode trocar experiências com outros profissionais depois você pode acompanhar as diversas regras com os manuais de pesquisa. Mas o primeiro passo é sempre **conhecer seu objeto de pesquisa e suas especifidades**
 
 ---
-## Aula 2
+# Aula 2
 ### Pesquisas Teóricas vs Aplicadas
 - Na distinção entre pesquisas teóricas e aplicadas, a professora explica que as **pesquisas teóricas** buscam **ampliar o conhecimento** em uma área, propondo novas abordagens e explicações.
 - Por outro lado, as **pesquisas aplicadas** têm como objetivo **propor soluções** para problemas concretos, aplicando o conhecimento científico em situações reais.
@@ -82,7 +82,7 @@ Veja a tabela comparativa abaixo:
 >
 
 ---
-## Aula 3
+# Aula 3
 
 > [!Quote] Nesta aula
 > Neste vídeo, a professora Angelica Carlini aborda os **principais métodos e técnicas de pesquisa qualitativa** utilizados por pesquisadores. Na introdução do tema, ela destaca que a pesquisa qualitativa busca compreender motivos, razões e sentimentos por trás dos fenômenos estudados, em contraste com a pesquisa quantitativa focada em dados estatísticos.
@@ -123,7 +123,7 @@ Veja a tabela comparativa abaixo:
 > [!success] Resposta D
 
 ---
-## Aula 4
+# Aula 4
 
 > [!quote] Nessa Aula
 > Neste vídeo, vemos uma introdução detalhada aos **métodos de pesquisa quantitativa**, com foco especial nas **pesquisas do tipo survey**. A apresentadora, Angelica Carlini, explica que esse tipo de pesquisa tem como objetivo **mensurar e quantificar fenômenos e comportamentos**, sendo adequada quando o pesquisador já possui **domínio sobre as variáveis envolvidas** no objeto de estudo. Na definição dos conceitos iniciais, ela destaca que as técnicas mais utilizadas são os **surveys e web surveys (on-line)**.

@@ -1,7 +1,7 @@
-## Index
+# Index
 - [[#Aula 1]]
 - [[#Aula 2]]
-## Aula 1
+# Aula 1
 ### Erro - Representação dos Números
 #### Sistema Posicionais
 Cada algarismo possui um **valor absoluto** e um **valor relativo**.
@@ -12,18 +12,18 @@ Cada algarismo possui um **valor absoluto** e um **valor relativo**.
 
 Vamos começar com um exemplo do sistema posicional na base 10:
 
-| Posição      | 3                    | 2                  | 1                   | 0                  |
-| ------------ | -------------------- | ------------------ | ------------------- | ------------------ |
-| Número$_{10} | 2                    | 0                  | 2                   | 3                  |
-| Relativo     | $2 \times 10³= 2000$ | $0 \times 10² = 0$ | $2 \times 10¹ = 20$ | $3 \times 10⁰ = 3$ |
+| Posição       | 3                    | 2                  | 1                   | 0                  |
+| ------------- | -------------------- | ------------------ | ------------------- | ------------------ |
+| Número$_{10}$ | 2                    | 0                  | 2                   | 3                  |
+| Relativo      | $2 \times 10³= 2000$ | $0 \times 10² = 0$ | $2 \times 10¹ = 20$ | $3 \times 10⁰ = 3$ |
 > Assim: $2000+0+20+3=2023$
 
 Agora na base 2 e convertendo para a base 10
 
-| Posição       | 3             | 2                 | 1                  | 0                 |
-| ------------- | ------------- | ----------------- | ------------------ | ----------------- |
-| Número$_{2}$  | 1             | 0                 | 1                  | 1                 |
-| Relativo      | $1\times2³=8$ | $0 \times 2² = 0$ | $1 \times 10¹ = 2$ | $1 \times 2⁰ = 1$ |
+| Posição      | 3             | 2                 | 1                  | 0                 |
+| ------------ | ------------- | ----------------- | ------------------ | ----------------- |
+| Número$_{2}$ | 1             | 0                 | 1                  | 1                 |
+| Relativo     | $1\times2³=8$ | $0 \times 2² = 0$ | $1 \times 10¹ = 2$ | $1 \times 2⁰ = 1$ |
 > Assim: $8+0+2+1=11$ ou ainda, $(1011)_{2}=(11)_{10}$
 ##### Convertendo de Decimal para Binário
 Converter para binário é simples: Seja $X$ o número decimal que queremos converter. Seja $B$ a representação binária de $X$. Para cada iteração $k$ de $0$ até $n$ (onde $n$ é o número de bits necessários para representar $X$): 1. Calcule o resto $R_k$ da divisão de $X$ por $2$: $$R_k = X \bmod 2$$ 2. Atualize a representação binária $B$ adicionando o resto $R_k$ no início: $$B = R_k \cdot 2^k + B$$ 3. Atualize $X$ pela divisão inteira por $2$: $$X = \lfloor X / 2 \rfloor$$ O processo continua até que $X = 0$. Em resumo: $$B = \sum_{k=0}^{n} R_k \cdot 2^k$$onde $R_k$ é o resto da divisão de $X$ por $2$ na iteração $k$, e $n$ é o número de bits necessários para representar $X$. 
@@ -119,7 +119,7 @@ $x=13,50 + 5,06\implies 18,56$
 Fazendo o truncamento:
 > $18,5$
 > 
-## Aula 2
+# Aula 2
 ### Zeros de Funções
 
 > [!NOTE] Teorema de Bolzano

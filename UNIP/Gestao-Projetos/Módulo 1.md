@@ -1,4 +1,4 @@
-## Aula 1
+# Aula 1
 
 ### Frameworks
 Em desenvolvimento de software, o framework é uma estrutura guia com padrões e ferramentas reusáveis para desenvolver programas computacionais de forma rápida; ou seja, é uma abstração que une códigos fontes comuns em vários projetos de software, provendo assim uma funcionalidade genérica
@@ -35,7 +35,7 @@ Alguns exemplos de frameworks para gerenciamento de serviços de TI.
 ![[Pasted image 20260831152854.png]]
 
 > Resposta: a) PMBOK
-## Aula 2
+# Aula 2
 ### Projetos x Operações
 #### Projetos
 - O termo **projeto** é muitas vezes compreendido apenas como a ação de planejar ou até mesmo desenhar
@@ -182,3 +182,6 @@ A capacidade de adaptação e resiliência é crucial para lidar com pressões e
 Metodologias como Prince2 e métodos ágeis oferecem abordagens distintas para o gerenciamento de projetos
 🎓 Conclusão
 Ao assistir este vídeo, pudemos compreender os princípios fundamentais que norteiam o gerenciamento de projetos, como a visão sistêmica, a adaptação ao contexto (tailoring) e a avaliação de riscos. Foram apresentadas metodologias consolidadas, como o Prince2, e abordagens mais recentes, como os métodos ágeis. A capacidade de adaptação e resiliência foi destacada como essencial para lidar com as complexidades e mudanças inerentes aos projetos.
+# Questionário 
+![[Pasted image 20260924203621.png]]
+![[Pasted image 20260924203631.png]]![[Pasted image 20260924203645.png]]![[Pasted image 20260924203657.png]]![[Pasted image 20260924203706.png]]![[Pasted image 20260924203713.png]]![[Pasted image 20260924203720.png]]![[Pasted image 20260924203736.png]]![[Pasted image 20260924203742.png]]![[Pasted image 20260924203749.png]]

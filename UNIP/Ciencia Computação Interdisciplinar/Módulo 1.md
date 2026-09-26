@@ -66,4 +66,16 @@ Combinamos os valores, teremos o número 15 multiplicado por 100, perfazendo, po
 | 3ª faixa | **Multiplicador** |
 | 4ª faixa | **Tolerância**    |
 # Aula 3
-Quando associamos
+## Resistência em Série
+
+Quando associamos resistore em série, temos uma situação em que a corrente elétrica fluindo pelo circuito deverá atravessar todos os resistores presentes na malha. Assim, a resistência é igual sua soma:
+![[Pasted image 20260923200421.png]]
+$$
+Req = \sum_ {i=1}^{n}R_n
+$$
+## Resistores em Paralelo
+Nesse caso o inverso da resistência é igual a soma do inverso das resistências:
+$$
+\frac{1}{Req}=\sum_{i=1}^n \frac{1}{R_i}
+$$
+![[Pasted image 20260923203315.png]]
